@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597771798 source:c:\users\akash\documents\codes\primeornot\src\primeornot.c
+	<stdio.h>
+
+1597771692 source:c:\users\akash\documents\codes\primeornot\main.c
+	<stdio.h>
+	<stdlib.h>
+	"primeornot.h"
+
+1597770591 c:\users\akash\documents\codes\primeornot\inc\primeornot.h
+
+1597462574 source:c:\users\akash\documents\codes\primeornot\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597462575 c:\users\akash\documents\codes\primeornot\unity\unity.h
+	"unity_internals.h"
+
+1597462575 c:\users\akash\documents\codes\primeornot\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597771694 source:c:\users\akash\documents\codes\primeornot\test\test_primeornot.c
+	"unity.h"
+	"primeornot.h"
+
