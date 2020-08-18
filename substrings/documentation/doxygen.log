@@ -1,0 +1,6 @@
+C:/Users/akash/Documents/codes/substrings/substrings/src/substrings.c:4: warning: the name 'substring.c' supplied as the argument in the \file statement is not an input file
+C:/Users/akash/Documents/codes/substrings/substrings/test/test_substrings.c:2: warning: the name 'test_substring.c' supplied as the argument in the \file statement is not an input file
+C:/Users/akash/Documents/codes/substrings/substrings/main.c:6: warning: the name 'main' supplied as the argument in the \file statement is not an input file
+C:/Users/akash/Documents/codes/substrings/substrings/src/substrings.c:5: warning: argument 'string' of command @param is not found in the argument list of substrings(char *name)
+C:/Users/akash/Documents/codes/substrings/substrings/inc/substrings.h:5: warning: The following parameter of substrings(char *name) is not documented:
+  parameter 'name'

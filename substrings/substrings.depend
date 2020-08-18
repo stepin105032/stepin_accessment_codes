@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1597755551 source:c:\users\akash\documents\codes\substrings\substrings\src\substrings.c
+	"substrings.h"
+	<stdio.h>
+	<string.h>
+
+1597755615 c:\users\akash\documents\codes\substrings\substrings\inc\substrings.h
+
+1597755608 source:c:\users\akash\documents\codes\substrings\substrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"substrings.h"
+	"test_substrings.h"
+
+1597755530 source:c:\users\akash\documents\codes\substrings\substrings\test\test_substrings.c
+	"unity.h"
+
+1597755512 c:\users\akash\documents\codes\substrings\substrings\test\test_substrings.h
+
+1597462575 c:\users\akash\documents\codes\substrings\substrings\unity\unity.h
+	"unity_internals.h"
+
+1597462575 c:\users\akash\documents\codes\substrings\substrings\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597462574 source:c:\users\akash\documents\codes\substrings\substrings\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
